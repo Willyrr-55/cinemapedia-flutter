@@ -1,4 +1,4 @@
-import 'package:cinemapedia/representation/provider/theme_provider.dart';
+import 'package:cinemapedia/presentation/provider/theme_provider.dart';
 import 'package:flutter/material.dart';
 
 import 'package:cinemapedia/config/router/app_router.dart';
