@@ -1,7 +1,7 @@
 
 
 import 'package:cinemapedia/domain/entities/movie.dart';
-import 'package:cinemapedia/representation/provider/providers.dart';
+import 'package:cinemapedia/presentation/provider/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 final moviesSlideshowProvider = Provider<List<Movie>>((ref){

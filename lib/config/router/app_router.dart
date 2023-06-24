@@ -1,5 +1,5 @@
-import 'package:cinemapedia/representation/screens/screens.dart';
-import 'package:cinemapedia/representation/screens/theme_changer.dart/theme_changer_screen.dart';
+import 'package:cinemapedia/presentation/screens/screens.dart';
+import 'package:cinemapedia/presentation/screens/theme_changer.dart/theme_changer_screen.dart';
 import 'package:go_router/go_router.dart';
 
 final appRouter = GoRouter(
